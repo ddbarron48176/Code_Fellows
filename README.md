@@ -1,4 +1,4 @@
-Code_Fellows
+Code Fellows
 ============
 
 RubyLibrary:<p>
